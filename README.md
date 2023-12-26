@@ -24,8 +24,8 @@
 
 ### Links 🔗
 
-- Solution URL: [page]()
-- Live Site URL: [page]()
+- Solution URL: [page](https://www.frontendmentor.io/solutions/build-with-flexbox-KpeizG6oDC)
+- Live Site URL: [page](https://sivin-wi.github.io/article-preview-component-master/)
 
 ## My process
 
